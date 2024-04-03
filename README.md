@@ -1,4 +1,5 @@
-# Multiscale-Cell-Correlation-Theory
+# Multiscale Cell Correlation Theory (MCC)
+
 
 # Abstract
 Accurately calculating the Gibbs free energies of biomolecules in aqueous phase solution is an important challenge and future goal because most processes take place in aqueous solution. Gibbs free energies give the information about the stability and kinetics of biomolecules which will be helpful in understanding the structure and functions of biomolecules. We have developed a new energy-entropy (EE) method based on multiscale cell correlation (MCC) correction theory which is used to calculated the Gibbs free energy values. Firstly, we applied our MCC theory to calculate the entropy for the range of important industrial liquids modeled with GAFF and OPLS force fields. The calculated entropy values are in good agreement with the experimental values having unsigned errors are 8.7 J K–1 mol–1 and 9.8 J K–1 mol–1 for GAFF and OPLS force fields respectively. 
